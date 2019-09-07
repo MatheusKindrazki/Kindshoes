@@ -30,7 +30,7 @@ class Home extends Component {
   }
 
   handleAddProduct = id => {
-    const { dispatch, addToCartRequest } = this.props;
+    const { addToCartRequest } = this.props;
 
     addToCartRequest(id);
   };
