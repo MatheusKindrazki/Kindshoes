@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58526b4943aefe0dfec944b011582a10",
+    "revision": "a3699056a76713cd1c573e5501cf06a8",
     "url": "/Kindshoes/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Kindshoes/static/js/2.caf24fe8.chunk.js"
   },
   {
-    "revision": "508927d0d53ccbba1b2d",
-    "url": "/Kindshoes/static/js/main.fcae9fbe.chunk.js"
+    "revision": "03b704d5a547c49ea8b7",
+    "url": "/Kindshoes/static/js/main.bbcef341.chunk.js"
   },
   {
     "revision": "c284bed9aa3d4162c6fc",
