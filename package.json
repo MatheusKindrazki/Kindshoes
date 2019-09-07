@@ -6,6 +6,8 @@
   "author": "Matheus Kindrazki <matheus@mentores.com.br>",
   "homepage": "https://matheuskindrazki.github.io/Kindshoes",
   "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.1.0",
     "polished": "^3.4.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
